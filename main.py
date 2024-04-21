@@ -1,3 +1,5 @@
+# Made By Shaheen <abdelazizshaheen162@gmail.com> For Python Workshop In Cic
+# Ford by <Kerlos atef> for Python Workshop in Cic 
 import pygame
 import time
 import random
